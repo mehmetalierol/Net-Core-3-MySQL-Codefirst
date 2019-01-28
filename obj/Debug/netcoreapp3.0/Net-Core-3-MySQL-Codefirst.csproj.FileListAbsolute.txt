@@ -1,0 +1,11 @@
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.deps.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.AssemblyInfo.cs
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.runtimeconfig.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.runtimeconfig.dev.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.csprojAssemblyReference.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MySQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MySQL-Codefirst.pdb
